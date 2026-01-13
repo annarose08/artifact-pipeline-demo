@@ -1,1 +1,1 @@
-code quality is good
+CODE_QUALITY=GOOD
